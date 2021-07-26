@@ -15,7 +15,9 @@
   CSS3  ✨✨✨<br>
   SASS   ✨✨<br>
   --------------------<br>
-  
+  Windows ✨✨✨<br>
+  Linux ✨✨
+  IOS ✨✨✨
   
 <!---
 Markomanis/Markomanis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
