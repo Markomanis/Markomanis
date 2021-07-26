@@ -6,7 +6,7 @@
 
   🌱My coding / programming skills: 🌱
   
-  Python ✨✨✨
+  Python ✨✨✨<br>
   C      ✨✨✨<br>
   C++    ✨✨<br>
   Java   ✨<br>
