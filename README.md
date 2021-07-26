@@ -16,7 +16,7 @@
   SASS   ✨✨<br>
   --------------------<br>
   Windows ✨✨✨<br>
-  Linux ✨✨
+  Linux ✨✨<br>
   IOS ✨✨✨
   
 <!---
