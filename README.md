@@ -17,7 +17,7 @@
   --------------------<br>
   Windows ✨✨✨<br>
   Linux ✨✨<br>
-  IOS ✨✨✨
+  IOS ✨✨
   
 <!---
 Markomanis/Markomanis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
