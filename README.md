@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Markomanis
-- 👀 I’m interested in Computer Science, AI, CyberSecurity and Programming
+- 👀 I’m interested in Computer Science, AI, CyberSecurity and Programming.
+- 👀 My speciality is ethical hacking
 - 🌱 I’m currently trying to Master C programming
 - 💞️ I’m student of Technical University in Kosice, Slovakia. Where I am currently studying IT (1/5 years).
 - 📫 How to reach me > magicocoding@gmail.com 
