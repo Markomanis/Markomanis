@@ -1,24 +1,22 @@
-- 👋 Hi, I’m @Markomanis
+- 👋 Hi, I’m @Marko
 - 👀 I’m interested in Computer Science, AI, CyberSecurity and Programming.
 - 👀 My speciality is ethical hacking
-- 🌱 I’m currently trying to Master C programming
-- 💞️ I’m student of Technical University in Kosice, Slovakia. Where I am currently studying IT (1/5 years).
+- 🌱 I’m currently trying to Master Python programming
 - 📫 How to reach me > magicocoding@gmail.com 
 
   🌱My coding / programming skills: 🌱
   
   Python ✨✨✨<br>
-  C      ✨✨✨<br>
-  C++    ✨✨<br>
-  Java   ✨<br>
+  JS     ✨<br>
   --------------------<br>
-  HTML5 ✨✨✨<br>
-  CSS3  ✨✨✨<br>
-  SASS   ✨✨<br>
+  HTML5     ✨✨✨<br>
+  CSS3      ✨✨✨<br>
+  Tailwind  ✨✨<br>
+  SASS      ✨✨<br>
   --------------------<br>
   Windows ✨✨✨<br>
   Linux ✨✨<br>
-  IOS ✨✨
+  IOS ✨
   
 <!---
 Markomanis/Markomanis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
