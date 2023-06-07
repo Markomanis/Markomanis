@@ -8,6 +8,7 @@
   
   Python ✨✨✨<br>
   JS     ✨<br>
+  C     ✨<br>
   --------------------<br>
   HTML5     ✨✨✨<br>
   CSS3      ✨✨✨<br>
