@@ -6,9 +6,16 @@
 
   🌱My coding / programming skills: 🌱
   
-  Python ✨✨✨<br>
-  JS     ✨<br>
-  C     ✨<br>
+  Python      ✨✨✨<br>
+  Django      ✨✨<br>
+  Pandas      ✨✨<br>
+  ChartJS     ✨✨<br>
+  OpenCV      ✨✨<br>
+  Mediapipe   ✨✨<br>
+  Pycaw       ✨✨<br>
+  JS          ✨<br>
+  React       ✨<br>
+  C           ✨<br>
   --------------------<br>
   HTML5     ✨✨✨<br>
   CSS3      ✨✨✨<br>
