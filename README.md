@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marko
 - 👀 I’m interested in Computer Science, AI, CyberSecurity and Programming.
 - 👀 My speciality is ethical hacking
-- 🌱 I’m currently studying to become AWS Certified Practitioner.
+- 🌱 I’m currently studying to become AWS Certified Cloud Practitioner.
 - 📫 How to reach me > magicocoding@gmail.com 
 
   🌱My coding / programming skills: 🌱
