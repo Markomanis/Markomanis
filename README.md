@@ -7,14 +7,14 @@
   🌱My coding / programming skills: 🌱
   
   Python      ✨✨✨<br>
+  JS          ✨✨✨<br>
+  React.js    ✨✨✨<br>
   Django      ✨✨<br>
   Pandas      ✨✨<br>
   ChartJS     ✨✨<br>
   OpenCV      ✨✨<br>
   Mediapipe   ✨✨<br>
   Pycaw       ✨✨<br>
-  JS          ✨<br>
-  React       ✨<br>
   C           ✨<br>
   --------------------<br>
   HTML5     ✨✨✨<br>
