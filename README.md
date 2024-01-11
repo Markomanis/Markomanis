@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marko
+- 👋 Hi, I’m @Marco
 - 👀 I’m interested in Computer Science, AI, CyberSecurity and Programming.
 - 👀 My speciality is ethical hacking
 - 🌱 I’m currently studying to become AWS Certified Cloud Practitioner.
