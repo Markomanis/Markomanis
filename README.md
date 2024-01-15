@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marco
-- 👀 I’m interested in Computer Science, AI, CyberSecurity and Programming.
+- 👀 I’m interested in Software Development, AI Machine Learning, CyberSecurity and Data Analytics
 - 👀 My speciality is ethical hacking
 - 🌱 I’m currently studying to become AWS Certified Cloud Practitioner.
 - 📫 How to reach me > magicocoding@gmail.com 
@@ -7,12 +7,12 @@
   🌱My coding / programming skills: 🌱
   
   Python      ✨✨✨<br>
-  JS          ✨✨✨<br>
-  React.js    ✨✨✨<br>
-  Django      ✨✨<br>
-  Pandas      ✨✨<br>
-  ChartJS     ✨✨<br>
-  OpenCV      ✨✨<br>
+  JS          ✨✨<br>
+  React.js    ✨✨<br>
+  Django      ✨✨✨<br>
+  Pandas      ✨✨✨<br>
+  ChartJS     ✨✨✨<br>
+  OpenCV      ✨✨✨<br>
   Mediapipe   ✨✨<br>
   Pycaw       ✨✨<br>
   C           ✨<br>
