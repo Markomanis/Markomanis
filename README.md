@@ -7,6 +7,8 @@
   🌱My coding / programming skills: 🌱
   
   Python      ✨✨✨<br>
+  SQL/HTML INJECTIONS      ✨✨✨<br>
+  (IDPS) Databases✨✨✨<br>
   JS          ✨✨<br>
   React.js    ✨✨<br>
   Django      ✨✨✨<br>
