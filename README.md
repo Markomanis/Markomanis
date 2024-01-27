@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @Marco
-- 👀 I’m interested in Software Development, AI Machine Learning, CyberSecurity and Data Analytics
-- 👀 My speciality is ethical hacking
-- 🌱 I’m currently studying to become AWS Certified Cloud Practitioner.
+- 👀 I’m interested... no actually... I am crazy about CyberSecurity and EthicalHacking. 
+- 👀 If you are a future potentional employer or HR person looking on my GitHub profile right now... here is the plot twist. It is me who is looking at you!
 - 📫 How to reach me > magicocoding@gmail.com 
 
   🌱My coding / programming skills: 🌱
   
+  Metasploit   ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+  Nmap         ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+  Nesus        ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
   Python      ✨✨✨<br>
   SQL/HTML INJECTIONS      ✨✨✨<br>
   (IDPS) Databases✨✨✨<br>
@@ -25,8 +27,8 @@
   SASS      ✨✨<br>
   --------------------<br>
   Windows ✨✨✨<br>
-  Linux ✨✨<br>
-  IOS ✨
+  Linux ✨✨✨<br>
+  IOS : yuck...
   
 <!---
 Markomanis/Markomanis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
