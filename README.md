@@ -27,8 +27,7 @@
   SASS      ✨✨<br>
   --------------------<br>
   Windows ✨✨✨<br>
-  Linux ✨✨✨<br>
-  IOS : yuck...
+  Linux ✨✨✨<br
   
 <!---
 Markomanis/Markomanis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
