@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marco
-- 👀 I’m interested... no actually... I am crazy about CyberSecurity and EthicalHacking. 
-- 👀 If you are a future potentional employer or HR person looking on my GitHub profile right now... here is the plot twist. It is me who is looking at you!
+- 👀 I’m interested... no actually... I Love CyberSecurity and EthicalHacking. 
+- 👀 If you are a future potentional employer or HR person looking at my GitHub profile right now... here is the plot twist. It is me who is looking at you!
 - 📫 How to reach me > magicocoding@gmail.com 
 
   🌱My coding / programming skills: 🌱
