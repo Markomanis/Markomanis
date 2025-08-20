@@ -4,14 +4,14 @@
 
   🌱My coding / programming skills: 🌱
   
-Languages: Python, ABAP, JavaScript
+Languages: Python, SAP ABAP, JavaScript
 
-Frameworks & Tools: Pandas, Flask, SAP ABAP
+Frameworks & Tools: Pandas, Flask, RAP, FIORI, Three.js
 
-Areas of Interest: Generative AI, backend development, cybersecurity, and full‑stack projects.
+Areas of Interest: Generative AI (Joules when it comes to ABAP development), backend development, cybersecurity and full‑stack projects.
   
 🚀 What I'm Working On:
 
-Creating an interactive adventure puzzle game in Unity 3D (C#) that connects with my Filozofia Denne project – allowing people I teach philosophy to learn and explore philosophy through action, logic, and immersive storytelling. It's gonna
-be blast!!! (once I get grasp on C# :D )
+ATM creating interactive 3D portfolio in Three.js called SAP caffè, where I can showcase all my tools and projects I worked in the pass as profesionall SAP ABAP developer. 
+
 
