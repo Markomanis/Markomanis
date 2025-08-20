@@ -4,7 +4,7 @@
 
   🌱My coding / programming skills: 🌱
   
-Languages: Python, SAP ABAP, JavaScript
+Languages: Python, SAP ABAP, CAP, JavaScript
 
 Frameworks & Tools: Pandas, Flask, RAP, FIORI, Three.js
 
