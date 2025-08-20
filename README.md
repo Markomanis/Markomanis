@@ -12,6 +12,6 @@ Areas of Interest: Generative AI (Joules when it comes to ABAP development), bac
   
 🚀 What I'm Working On:
 
-ATM creating interactive 3D portfolio in Three.js called SAP caffè, where I can showcase all my tools and projects I worked in the pass as profesionall SAP ABAP developer. 
+ATM creating interactive 3D portfolio in Three.js called SAP caffè, where I can showcase all my tools and projects that I worked on in the pass as profesionall SAP ABAP developer. 
 
 
