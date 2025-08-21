@@ -3,12 +3,16 @@
 - 📫 How to reach me > https://www.linkedin.com/in/marko-marciano-966baa27b/
 
   🌱My coding / programming skills: 🌱
+
+Professionally I work with Windows, but in my free time and for CyberSecurity stuff I am using Linux (Kali)
   
-Languages: Python, SAP ABAP, CAP, JavaScript
+Languages: Python, SAP ABAP, JavaScript
 
-Frameworks & Tools: Pandas, Flask, RAP, FIORI, Three.js
+Frameworks & Tools: Pandas, Flask, RAP, FIORI, Three.js, ABAP CAP, RAP, Node.js
 
-Areas of Interest: Generative AI (Joules when it comes to ABAP development), backend development, cybersecurity and full‑stack projects.
+IDE: Eclipse (for ABAP), PyCharm (for Python), VS Code (for webDev)
+
+Areas of Interest: Generative AI (Joules when it comes to ABAP development), backend development (I worked mostly on SAP banking related projects), cybersecurity and full‑stack projects.
   
 🚀 What I'm Working On:
 
