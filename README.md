@@ -49,7 +49,7 @@
 
 ## 🚀 Current Focus  
 
-✨ My goal is to **combine Generative AI expertise** from the AI Engineering Bootcamp with **Accenture AI Refinery**, to accelerate **SAP Generative AI development** and deliver innovative use cases with **SAP Joule and Embedded AI**.  
+✨ My goal is to **combine Generative AI expertise** from my AI Engineering skills with **Accenture AI Refinery**, to accelerate **SAP Generative AI development** and deliver innovative use cases with **SAP Joule and Embedded AI**.  
 
 ---
 
