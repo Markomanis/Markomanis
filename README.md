@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Marco  
 
 💡 I’m passionate about **Cybersecurity**, **Generative AI**, and **SAP ABAP Development**.  
-🔗 Connect with me on [LinkedIn](www.linkedin.com/in/marko-marciano-966baa27b)  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/marko-marciano-966baa27b/)
+
+
 
 ---
 
