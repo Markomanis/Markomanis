@@ -9,7 +9,7 @@
 
 ## 🌱 My Coding / Programming Skills  
 
-- **Languages:** Python, SAP ABAP, JavaScript,   
+- **Languages:** Python, SAP ABAP, JavaScript   
 - **Frameworks & Tools:** Pandas, Requests, Flask, RAP, Fiori, CAP, Node.js, Express.js, React (personally prefer Angular)
 - **AI Frameworks & Tools:** LangChain, LangGraph, LangSmith, Streamlit, Pinecone, Chroma, tiktoken  
 - **APIs & Platforms:** OpenAI, Google Gemini, Whisper, DALL·E 3, SerpAPI, ArXiv API  
