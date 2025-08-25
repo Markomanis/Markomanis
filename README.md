@@ -26,7 +26,7 @@
   - AI Agents (ReAct Agents, LangGraph orchestration, reflection-based systems)  
   - Multi-modal AI (text, images, audio with Whisper & DALL·E 3)  
 - **SAP Development**  
-  - ABAP (OOP, RAP, CAP)  
+  - ABAP, CAP  
   - SAP Fiori & UI5  
   - SAP Banking Solutions  
   - SAP BTP & Cloud Integrations  
