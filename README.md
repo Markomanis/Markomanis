@@ -38,7 +38,7 @@
 
 ---
 
-## 📚 What I’ve Built (in Python)
+## 📚 What I’ve Built (in Python) - AI Related projects 
 
 - 🥗 **Healthy Daily Meal Planner** – Meal plans with OpenAI, AI-generated images (DALL·E), and text-to-speech narration.  
 - 🖼️ **Talking with an Image (Streamlit App)** – Interactive web app to chat with images.  
