@@ -36,7 +36,7 @@
   - Application & Network Security  
   - Identity & Access Management  
 
----
+----
 
 ## 📚 What I’ve Built (in Python) - AI Related projects 
 
